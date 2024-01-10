@@ -1,1 +1,2 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+Hi, this repo contains code for my personal portfolio website. 
+You can checkout the website here: https://syammohan2103.github.io/portfolio/
